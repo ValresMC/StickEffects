@@ -1,0 +1,15 @@
+message: "§4>§c Utilisable dans {temps}s."
+
+sticks:
+
+  gunpowder:
+    effects:
+      - ["speed", 15, 1, true]
+      - ["resistance", 20, 2, true]
+    cooldown: 30
+
+  diamond:
+    effects:
+      - [ "slowness", 15, 1, true ]
+      - [ "strength", 20, 2, true ]
+    cooldown: 10
